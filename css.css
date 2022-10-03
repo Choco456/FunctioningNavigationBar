@@ -124,6 +124,19 @@
     font-size: 50px;
 }
 
+
+
+
+
+#QR4 {
+    background: gray;
+    width: 20%;
+    float: right;
+    text-align: center;
+    padding: 200px 0;
+    font-size: 50px;
+}
+
 #QR5 {
     background: blanchedalmond;
     width: 20%;
